@@ -16,11 +16,25 @@ button:hover {
   color: black;
 }
 .example-header-image {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> B2
   background-image: url(../../assets/lj7.png);
   background-size: cover;
 }
 .example-header-image2 {
   background-image: url(../../assets/lj7.png);
+<<<<<<< HEAD
+=======
+=======
+  background-image: url(../../assets/c1.jpg);
+  background-size: cover;
+}
+.example-header-image2 {
+  background-image: url(../../assets/p2.jpg);
+>>>>>>> B1
+>>>>>>> B2
   background-size: cover;
 }
 .mat-card-actions {
